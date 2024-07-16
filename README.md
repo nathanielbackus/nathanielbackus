@@ -10,6 +10,6 @@ Email: nathanielbackus@me.com
 
 Twitter: https://twitter.com/NathanielBackus
 
-Linkedin: https://www.linkedin.com/in/nathaniel-backus-21218b232/
+Linkedin: https://www.linkedin.com/in/nathaniel-backus/
 
 
