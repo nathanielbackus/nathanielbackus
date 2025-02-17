@@ -1,15 +1,20 @@
-Hi!
+# Hi, I'm Nathaniel Backus 
 
-I am a student at Western Governor's University pursuing a Bachelors in Software Development.
-I am currently employed with Smart City Networks as a Network Technician
-I am currently supplementing my education with web projects and certifications.
-I have completed the CompTIA A+ and Project+ certifications.
-I am looking to expand my opportunities in my projects with anything related to fullstack development.
+### 🚀 Full-Stack Developer | Software Engineer
 
-Email: nathanielbackus@me.com
+I am a **recent graduate** from **Western Governors University** with a **B.S. in Software Development**.  
+I'm passionate about **full-stack development**, working with **APIs, databases, and scalable web applications**.  
 
-Twitter: https://twitter.com/NathanielBackus
+🌱 **Currently Exploring:**  
+- Backend Optimization (MySQL, Redis, API Caching)  
+- Frontend Development (Astro, React, TailwindCSS)  
+- Cloud Hosting & CI/CD (Netlify, AWS, Docker)  
 
-Linkedin: https://www.linkedin.com/in/nathaniel-backus/
+📌 **Technologies I Work With:**  
+- **Languages:** JavaScript (Node.js), TypeScript, Python, Java  
+- **Frontend:** React, Astro, TailwindCSS  
+- **Backend:** Express, MySQL, Redis, Firebase  
+- **Tools:** Git, Netlify, Docker, JavaFX  
 
-
+- ✉️ Email: [nathanielbackus@me.com](mailto:nathanielbackus@me.com)  
+- 💼 LinkedIn: [Nathaniel Backus](https://www.linkedin.com/in/nathaniel-backus/)  
